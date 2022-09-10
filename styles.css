@@ -1,0 +1,50 @@
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(217, 54%, 11%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    color: white;
+}
+article {
+    display: flex;
+    flex-direction: column;
+    background-color: hsl(216, 50%, 16%);
+    padding: 2em;
+    width: 15rem; 
+    border-radius: 15px;
+}
+.nft-img {
+    border-radius: 15px;
+}
+p, .txt {
+    color: hsl(215, 51%, 70%);
+    font-weight: 300;
+}
+h2, span {
+    color: hsl(0, 0%, 100%);
+}
+.eth {
+    color: hsl(178, 100%, 50%);
+    font-weight: 700;
+    display: flex;
+    justify-content: space-between;
+}
+hr {
+    width: 100%;
+}
+.avatar {
+    display: flex;
+    justify-content:flex-start;
+    padding: .2em ;
+}
+.icon {
+    height: 3em;
+    border: 1px white solid;
+    border-radius: 100%;
+}
+.author {
+    text-indent: 1em;
+}
