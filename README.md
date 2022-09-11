@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![nft-mobile-preview.png](Mobile Screenshot)
- [nft-desktop-preview.jpeg](Desktop Screenshot)
+![nft-desktop-preview](https://user-images.githubusercontent.com/95522156/189535544-b7ac0de9-9af3-48c9-98ba-ea134c3d887c.jpeg)
+![nft-mobile-preview](https://user-images.githubusercontent.com/95522156/189535545-659f1da2-efcd-4c22-b831-6c8c4fa3e79a.png)
 
 ### Links
 
