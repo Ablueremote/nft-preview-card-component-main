@@ -8,22 +8,30 @@ body {
     min-height: 100vh;
     color: white;
 }
-article {
+main {
     display: flex;
     flex-direction: column;
     background-color: hsl(216, 50%, 16%);
-    padding: 2em;
-    width: 15rem; 
+    padding: 1.2em;
+    max-width: 18rem; 
     border-radius: 15px;
 }
 .nft-img {
     border-radius: 15px;
+    width: 100%;
+  height: auto;
+}
+.nft-img:hover {
+    transform: scale(1.1);
+    z-index: auto;
+    transition: 2s;
+
 }
 p, .txt {
     color: hsl(215, 51%, 70%);
     font-weight: 300;
 }
-h2, span {
+h1, span {
     color: hsl(0, 0%, 100%);
 }
 .eth {
@@ -48,6 +56,6 @@ hr {
 .author {
     text-indent: 1em;
 }
-h2:hover, span:hover {
+h1:hover, span:hover {
     color: hsl(178, 100%, 50%);
 }
